@@ -1,0 +1,15 @@
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\bin\Debug\Ch10CardWPFClient.exe.config
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\bin\Debug\Ch10CardWPFClient.exe
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\bin\Debug\Ch10CardWPFClient.pdb
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.csprojResolveAssemblyReference.cache
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\App.g.cs
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient_MarkupCompile.cache
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient_MarkupCompile.lref
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\MainWindow.baml
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.g.resources
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.Properties.Resources.resources
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.csproj.GenerateResource.Cache
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.exe
+C:\Users\Esp\source\repos\Ch10CardLib\Ch10CardWPFClient\obj\Debug\Ch10CardWPFClient.pdb
